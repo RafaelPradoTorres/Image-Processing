@@ -1,2 +1,2 @@
-# Image-Processing
- Exercises and an overview about the book "Digital Image Processing"
+# Image Processing
+ This project was made to train, using as base the book "Digital Image Processing" by Rafael C. Gonzalez
